@@ -12,9 +12,7 @@
 	<a href='https://www.linkedin.com/in/felipe-augusto-gomes-246a5919b/'>
 	<img src='https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin - Felipe Augusto'>
 	</a>
-	<a href="https://gmxfelipe.github.io/">
-        <img src="https://img.shields.io/badge/Blogs-Devster-purple?style=for-the-badge&logo=devto&logoColor=7289DA&logoWidth=30&labelColor=000" alt="C.V">
-	</a>
+
 	<p>
 	Mais em breve...
 	</p>
