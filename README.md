@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/Blogs-Devster-purple?style=for-the-badge&logo=devto&logoColor=7289DA&logoWidth=30&labelColor=000" alt="Dev.to Profile">
 	</a>
 	<p>
-	More Coming Soon..
+	Mais em breve...
 	</p>
 </div>
 
@@ -46,22 +46,6 @@
 		<img src='https://img.shields.io/badge/code-react-blue?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' alt='React.js'>
 	</a>
 	&emsp;
-	<a href='https://www.Vuejs.org/'>
-		<img src='https://img.shields.io/badge/code-vue-green?logoWidth=30&labelColor=black&style=for-the-badge&logo=vue' alt='Vue.js'>
-	</a>
-	&emsp;
-	<a href='https://www.python.org/'>
-		<img src='https://img.shields.io/badge/code-python-007396?logoWidth=30&labelColor=black&style=for-the-badge&logo=python' alt='Java'>
-	</a>
-	&emsp;
-	<a href='#'>
-		<img src='https://img.shields.io/badge/code-c%20programming-A8B9CC?logoWidth=30&labelColor=black&style=for-the-badge&logo=c' alt='C Programming'>
-	</a>
-	&emsp;
-	<a href='#'>
-		<img src='https://img.shields.io/badge/code-c%2B%2B-00599C?logoWidth=30&labelColor=black&style=for-the-badge&logo=c%2B%2B' alt='C++'>
-	</a>
-	&emsp;
 	<a href='https://www.php.net/'>
 		<img src='https://img.shields.io/badge/code-php-777BB4?logoWidth=30&labelColor=black&style=for-the-badge&logo=php' alt='PHP'>
 	</a>
@@ -70,10 +54,7 @@
 		<img src='https://img.shields.io/badge/tools-bootstrap-563D7C?logo=bootstrap&logoWidth=30&labelColor=black&style=for-the-badge' alt='Bootstrap'>
 	</a>
 	&emsp;
-	<a href='https://repl.it/'>
-		<img src='https://img.shields.io/badge/tools-repl-430098?logoWidth=30&labelColor=black&style=for-the-badge&logo=replit' alt='REPL.IT'>
-	</a>
-	&emsp;
+	
 </div>
 <hr>
 <img src="https://komarev.com/ghpvc/?username=devloves&style=flat-square">
