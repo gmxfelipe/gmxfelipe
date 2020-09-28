@@ -12,11 +12,11 @@
 	<a href='https://www.linkedin.com/in/felipe-augusto-gomes-246a5919b/'>
 	<img src='https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin - Felipe Augusto'>
 	</a>
-
+</div>
 	<p>
 	Mais em breve...
 	</p>
-</div>
+
 
 <hr>
 
