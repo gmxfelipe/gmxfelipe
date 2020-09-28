@@ -10,7 +10,7 @@
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='#'>
-	<img src='https://img.shields.io/badge/Discord-Dev%237558-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord - dev#7558'>
+	<img src='https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin - Felipe Augusto'>
 	</a>
 	<a href="https://dev.to/devster">
         <img src="https://img.shields.io/badge/Blogs-Devster-purple?style=for-the-badge&logo=devto&logoColor=7289DA&logoWidth=30&labelColor=000" alt="Dev.to Profile">
