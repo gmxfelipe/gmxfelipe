@@ -1,4 +1,4 @@
-# 👋Hey There i am [ Felipe Augusto]
+# 👋Olá, eu sou [ Felipe Augusto]
 <div style='font-size:1.2em'>
 	Web Developer 🚀
 	
@@ -6,7 +6,7 @@
 
 <br>
 
-## ⚡ Get Me on
+## ⚡ Redes sociais 
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='https://www.linkedin.com/in/felipe-augusto-gomes-246a5919b/'>
@@ -20,7 +20,7 @@
 
 <hr>
 
-## 🔧 Langs / Tools / Frameworks
+## 🔧 Linguagens / Ferramentas / Frameworks
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<!-- Programming Languages. -->
