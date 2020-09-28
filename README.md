@@ -1,6 +1,6 @@
 # 👋Hey There i am [ Felipe Augusto]
 <div style='font-size:1.2em'>
-	Web Developer
+	Web Developer 🚀
 	
 </div>
 
@@ -57,4 +57,4 @@
 	
 </div>
 <hr>
-<p>🚀 Audaz 🚀 </p>
+
