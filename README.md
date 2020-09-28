@@ -1,7 +1,7 @@
 # 👋Hey There i am [ Felipe Augusto]
 <div style='font-size:1.2em'>
-	<b>Web developer</b>
-	&ldquo;Eu sou apenas um desenvolvedor que está sempre aprendendo. &rdquo;
+	**Web Developer** [@eusoufiec](https://www.fiec.com.br/site/index.do).
+	
 </div>
 
 <br>
@@ -57,4 +57,4 @@
 	
 </div>
 <hr>
-<img src="https://komarev.com/ghpvc/?username=devloves&style=flat-square">
+<p>Eu desinstalei um software velho do meu cérebro e aprendo tudo que for preciso.</p>
